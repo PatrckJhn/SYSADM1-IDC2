@@ -129,7 +129,7 @@ Recall the e-commerce website scenario we discussed earlier. Given the expected 
   **Cost and Complexity**:  
   * **Cost**: High initial investment for BGP configuration and ISP setup.  
   * **Complexity**: Requires skilled network engineers to configure and manage BGP routing and ISP coordination. Ongoing management to ensure redundancy and performance.  
-  * 
+    
 
 #### **2\. Add a Second Multilayer Switch**
 
