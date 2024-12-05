@@ -2,9 +2,9 @@
 
 ![image](https://github.com/user-attachments/assets/209c0bdd-f8bd-4f55-8f25-a0a5cd11b01b)
 
-1. # **SYSADM1 – Capacity Management & Planning** 
+ # **SYSADM1 – Capacity Management & Planning** 
 
-2. # **Part 2\. Network Scalability Analysis**
+# **Part 2\. Network Scalability Analysis**
 
 Recall the e-commerce website scenario we discussed earlier. Given the expected surge in traffic, analyze the provided network topology diagram. Identify potential bottlenecks and areas where scalability might be a concern. Propose specific strategies to improve the network's scalability and performance to ensure a seamless user experience during the peak traffic period. Consider factors such as increased user demand, new applications, and security threats.
 
