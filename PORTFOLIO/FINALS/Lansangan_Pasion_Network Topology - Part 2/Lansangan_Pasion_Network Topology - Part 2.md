@@ -1,9 +1,6 @@
 
 
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: Patrick John M. Lansangan             Zhaun Gabrielle F. Pasion | DATE PERFORMED: 28/11/2024 | /50  |
-| Section: IDC2 | DATE SUBMITTED: 5/12/2024 |  |
+![image](https://github.com/user-attachments/assets/209c0bdd-f8bd-4f55-8f25-a0a5cd11b01b)
 
 1. # **SYSADM1 – Capacity Management & Planning** 
 
@@ -11,13 +8,8 @@
 
 Recall the e-commerce website scenario we discussed earlier. Given the expected surge in traffic, analyze the provided network topology diagram. Identify potential bottlenecks and areas where scalability might be a concern. Propose specific strategies to improve the network's scalability and performance to ensure a seamless user experience during the peak traffic period. Consider factors such as increased user demand, new applications, and security threats.
 
-### 
+![image](https://github.com/user-attachments/assets/b386ca51-571f-4096-9365-785b4fc077cb)
 
-### 
-
-### 
-
-### 
 
 ### **Network Analysis**
 
@@ -174,7 +166,8 @@ Recall the e-commerce website scenario we discussed earlier. Given the expected 
 
   ### **Proposed Design**
 
-![][image1]
+![image](https://github.com/user-attachments/assets/4eaec1fc-9df8-47fc-80b0-ea8bd91c12b5)
+
 
 #### **Implementation Plan**
 
