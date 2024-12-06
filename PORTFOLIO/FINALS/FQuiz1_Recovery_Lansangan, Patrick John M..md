@@ -1,9 +1,7 @@
 
 
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: Lansangan, Patrick John M. | DATE PERFORMED: 11/21/24 |   |
-| Section: IDC2 | DATE SUBMITTED:  11/21/24 |  |
+![image](https://github.com/user-attachments/assets/e2b3c89b-e090-4010-b620-86866be3773d)
+
 
 **WINDOWS ADMINISTRATIVE TOOLS**
 
