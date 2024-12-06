@@ -1,9 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/ecb8c814-fb8c-4dff-8aa4-d3a069b49c1b)
 
-|  SCHOOL OF INFORMATION AND TECHNOLOGY |  |  |
-| ----- | :---- | :---: |
-| NAME: LANSANGAN, PATRICK JOHN M. | DATE PERFORMED:10/03/2024 | /50  |
-| Section:IDC2 | DATE SUBMITTED: 10/03/2024 |  |
 
 1. # SYSADM1 – Monitoring Print Services in Windows Server 2019
 
@@ -15,25 +12,29 @@ Part 1: Setting Up Print Services
 
 1. Install and configure **print.srv** domain 
 
-![][image1]
+![image](https://github.com/user-attachments/assets/ec6e425d-91a5-4805-8799-8355b09cbd1a)
+
 
 2. Connect one client to the recently created domain
 
-![][image2]
+![image](https://github.com/user-attachments/assets/1953fbcb-f1ce-4ced-9137-93b84185a8d3)
+
 
 3. Install Print Services Role:
 
-![][image3]
+![image](https://github.com/user-attachments/assets/d8ef709c-ac95-45da-b95f-fe48a532a27d)
+
 
 4. Search the internet for any printer installer and convert it to iso
 
-![][image4]
+![image](https://github.com/user-attachments/assets/83220ead-e233-4b40-b481-34d8b7780bae)
 
 5. Install and deploy it as network printer
 
-![][image5]
+![image](https://github.com/user-attachments/assets/ab2a70fa-c969-4c64-a535-5a1df37e0d39)
 
-![][image6]
+![image](https://github.com/user-attachments/assets/f1294fca-707c-4937-889a-73c177d2ccad)
+
 
 Part 2: Monitoring Print Services
 
@@ -45,13 +46,16 @@ Objective: Familiarize yourself with monitoring tools available in Windows Serve
 
    * Navigate to Applications and Services Logs \> Microsoft \> Windows \> PrintService.
 
-     ![][image7]
+  ![image](https://github.com/user-attachments/assets/18c4b8c8-6431-42ea-ab71-9da1fafd3d61)
+
 
    * Review logs for print jobs, errors, and warnings.
 
-![][image8]
+![image](https://github.com/user-attachments/assets/6c9e1885-081c-45b6-83dc-ca7ed81a0eeb)
 
-![][image9]
+
+![image](https://github.com/user-attachments/assets/ddb50c30-736c-4bc1-b9aa-fe6a2d1e4f9a)
+
 
 The printer could not print virtually if the port was on LPT port 1 but it worked when I connected it to PORTPROMPT.
 
@@ -59,17 +63,20 @@ The printer could not print virtually if the port was on LPT port 1 but it worke
 
    * Open Performance Monitor (run perfmon).
 
-![][image10]
+![image](https://github.com/user-attachments/assets/6850993b-5d4d-44b3-910f-0fe808ef0472)
+
 
 In the left panel, expand Data Collector Sets \> System.
 
 * Right-click System Performance and select Start.
 
-![][image11]
+![image](https://github.com/user-attachments/assets/d5b0ccf3-9303-4b75-a34e-9824e703bbf6)
+
 
 * Monitor performance metrics related to print services.
 
-![][image10]
+![image](https://github.com/user-attachments/assets/cae4846d-161f-484a-a222-0302e1554afd)
+
 
 3. Using Print Management Console:
 
@@ -79,7 +86,8 @@ In the left panel, expand Data Collector Sets \> System.
 
    * Use the Printers node to check the status of all printers.
 
-![][image9]
+![image](https://github.com/user-attachments/assets/c3de52ff-8335-40d3-8693-5e99a652e9a1)
+
 
 Part 3: Exploring Third-Party Monitoring Tools
 
@@ -123,13 +131,15 @@ Part 3: Exploring Third-Party Monitoring Tools
 
    * Choose one of the tools to install in your environment.
 
-![][image12]
+![image](https://github.com/user-attachments/assets/92feca1e-1762-4b09-bef9-6afff8ed3b87)
+
 
 * Follow the installation instructions provided by the tool's documentation.
 
   * Configure it to monitor your print services.
 
-![][image13]
+![image](https://github.com/user-attachments/assets/2a5a813d-de14-4f61-aacf-b809ab7909ce)
+
 
 I downloaded the PrintInspector
 
@@ -137,11 +147,12 @@ I downloaded the PrintInspector
 
    * Generate a report or dashboard from the tool.
 
-**\-So far with this app I can see the name of the document that is printed, the date that it was printed, the status, number of pages, the day it was submitted and the printer that was used on the document. This is only free but with these features I think I can manage my server with users in it especially because I can monitor their printing Queues through this application and also their computers.**
+**\- I can see the name of the document that is printed, the date that it was printed, the status, number of pages, the day it was submitted and the printer that was used on the document. This is only free but with these features I think I can manage my server with users in it especially because I can monitor their printing Queues through this application and also their computers.**
 
 * Analyze the collected data (e.g., print volume, errors, user activity).
 
-![][image14]
+![image](https://github.com/user-attachments/assets/ebdb7ee2-286d-47d4-9907-b05122843f1c)
+
 
 Rubric
 
