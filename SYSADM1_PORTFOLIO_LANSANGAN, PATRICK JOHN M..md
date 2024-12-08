@@ -16,104 +16,35 @@
 Quiz 1:\
 ![image](https://github.com/user-attachments/assets/c2f78eab-28b0-4396-953d-dc0e4cebff5e)
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
 Physical Infrastructure:\
 ![image](https://github.com/user-attachments/assets/320e0c78-c568-4cb2-b333-dd57c62ff4b2)
 
-\
-\
-\
+
 MIDTERMS ACTIVITIES\
-\
-\
-\
-\
+
 License Agreement:\
 ![image](https://github.com/user-attachments/assets/475a9393-1be8-48fc-9188-75aec458ca9a)
 
-\
-\
-\
-\
-\
+
 M_LW1_Monitoring Print Services:\
 ![image](https://github.com/user-attachments/assets/9aaedb14-1062-4ee1-a882-edaf159b3923)
-
-\
-\
-\
-\
-\
-**
 
 
 Monitoring Web Server:\
 ![image](https://github.com/user-attachments/assets/b31c3b49-ae39-4d3f-bd67-0c66c9ae685f)
 
 
-**\
-\
-\
-**
-
-**\
-\
-**
-
-> **FINALS ACTIVITIES**
+**FINALS ACTIVITIES**
 
 FQuiz1_Recovery:\
 ![image](https://github.com/user-attachments/assets/da896385-0db5-4a2e-9ea0-2c470524c924)
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-**
 
-**\
-\
-\
 Finals - Quiz_Part 1_Identifying Bottleneck:\
 ![image](https://github.com/user-attachments/assets/61022ee6-9128-408d-9a13-0769788ae790)
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-**
+
 
 **Part 2 -- Capacity Management and Planning**
 
