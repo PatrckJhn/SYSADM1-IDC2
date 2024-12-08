@@ -10,12 +10,12 @@
 
 **Case Study: Evolution of Systems Administration:**
 
-![](vertopal_a38961ee73864ca5b767911693995898/media/image2.jpg){width="7.0in"
-height="9.109722222222222in"}
+![image](https://github.com/user-attachments/assets/0702d34c-9a85-4132-8cb9-036665763a64)
+
 
 **Quiz 1:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image3.png){width="6.469653324584427in"
-height="8.001116579177603in"}**\
+![image](https://github.com/user-attachments/assets/c2f78eab-28b0-4396-953d-dc0e4cebff5e)
+
 \
 \
 \
@@ -32,8 +32,8 @@ height="8.001116579177603in"}**\
 \
 \
 Physical Infrastructure:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image4.png){width="6.740523840769904in"
-height="8.199060586176728in"}**\
+![image](https://github.com/user-attachments/assets/320e0c78-c568-4cb2-b333-dd57c62ff4b2)
+
 \
 \
 \
@@ -43,16 +43,16 @@ MIDTERMS ACTIVITIES\
 \
 \
 License Agreement:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image5.png){width="5.9070745844269466in"
-height="8.34491469816273in"}**\
+![image](https://github.com/user-attachments/assets/475a9393-1be8-48fc-9188-75aec458ca9a)
+
 \
 \
 \
 \
 \
 M_LW1_Monitoring Print Services:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image6.png){width="7.0in"
-height="6.0152777777777775in"}**\
+![image](https://github.com/user-attachments/assets/9aaedb14-1062-4ee1-a882-edaf159b3923)
+
 \
 \
 \
@@ -62,8 +62,8 @@ height="6.0152777777777775in"}**\
 
 **\
 Monitoring Web Server:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image7.png){width="5.479931102362205in"
-height="6.657179571303587in"}
+![image](https://github.com/user-attachments/assets/b31c3b49-ae39-4d3f-bd67-0c66c9ae685f)
+
 
 **\
 \
@@ -77,8 +77,8 @@ height="6.657179571303587in"}
 > **FINALS ACTIVITIES**
 
 **FQuiz1_Recovery:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image8.png){width="7.0in"
-height="5.8694444444444445in"}**\
+![image](https://github.com/user-attachments/assets/da896385-0db5-4a2e-9ea0-2c470524c924)
+
 \
 \
 \
@@ -98,9 +98,9 @@ height="5.8694444444444445in"}**\
 **\
 \
 \
-Kerberos Lab Activity: A step-by-step Guide:\
-**![](vertopal_a38961ee73864ca5b767911693995898/media/image9.png){width="5.695897856517935in"
-height="7.6384995625546805in"}**\
+Finals - Quiz_Part 1_Identifying Bottleneck:\
+![image](https://github.com/user-attachments/assets/61022ee6-9128-408d-9a13-0769788ae790)
+
 \
 \
 \
@@ -117,8 +117,8 @@ height="7.6384995625546805in"}**\
 
 **Part 2 -- Capacity Management and Planning**
 
-![](vertopal_a38961ee73864ca5b767911693995898/media/image10.png){width="7.0in"
-height="3.2777777777777777in"}
+![image](https://github.com/user-attachments/assets/e69af7cb-f426-482a-9979-cc817644a0c1)
+
 
 **Course Reflection**
 
