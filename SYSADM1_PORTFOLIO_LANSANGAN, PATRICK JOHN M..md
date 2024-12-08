@@ -13,7 +13,7 @@
 ![image](https://github.com/user-attachments/assets/0702d34c-9a85-4132-8cb9-036665763a64)
 
 
-**Quiz 1:\
+Quiz 1:\
 ![image](https://github.com/user-attachments/assets/c2f78eab-28b0-4396-953d-dc0e4cebff5e)
 
 \
@@ -60,7 +60,7 @@ M_LW1_Monitoring Print Services:\
 \
 **
 
-**\
+
 Monitoring Web Server:\
 ![image](https://github.com/user-attachments/assets/b31c3b49-ae39-4d3f-bd67-0c66c9ae685f)
 
@@ -76,7 +76,7 @@ Monitoring Web Server:\
 
 > **FINALS ACTIVITIES**
 
-**FQuiz1_Recovery:\
+FQuiz1_Recovery:\
 ![image](https://github.com/user-attachments/assets/da896385-0db5-4a2e-9ea0-2c470524c924)
 
 \
